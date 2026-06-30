@@ -1,0 +1,11 @@
+{
+  "guide": "GTCTGAGTGAAGCCGCTCGT",
+  "cut_site": 331,
+  "fw_primer": "TGTTGGAGATCTGCCTGAAGCTGGT",
+  "rv_primer": "ATGTAGTTGCTTGGGACCCAGCCTT",
+  "amplicon_bp": 346,
+  "t7e1_fragments": [
+    137,
+    209
+  ]
+}

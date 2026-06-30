@@ -1,0 +1,426 @@
+[
+  {
+    "guide": "GAGAAACACTCCTGGTACCA",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 559,
+    "gc": 50.0,
+    "on_target": 1.0
+  },
+  {
+    "guide": "GCTGAGTATCTGCTGAGCAG",
+    "pam": "CGG",
+    "strand": "+",
+    "mrna_pos": 601,
+    "gc": 55.0,
+    "on_target": 1.0
+  },
+  {
+    "guide": "GCTGCTCAGCAGATACTCAG",
+    "pam": "CGG",
+    "strand": "-",
+    "mrna_pos": 599,
+    "gc": 55.0,
+    "on_target": 1.0
+  },
+  {
+    "guide": "GCATCTGACTTTGAGCCTCA",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 292,
+    "gc": 50.0,
+    "on_target": 0.965
+  },
+  {
+    "guide": "GCAGATACTCAGCGGCATTG",
+    "pam": "CGG",
+    "strand": "-",
+    "mrna_pos": 591,
+    "gc": 55.0,
+    "on_target": 0.965
+  },
+  {
+    "guide": "GCTTAGAGTGTTATCTCCAC",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 413,
+    "gc": 45.0,
+    "on_target": 0.953
+  },
+  {
+    "guide": "AGCCGCTCGTTGGAACTCCA",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 324,
+    "gc": 60.0,
+    "on_target": 0.941
+  },
+  {
+    "guide": "CTGCTGAGCAGCGGGATCAA",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 610,
+    "gc": 60.0,
+    "on_target": 0.941
+  },
+  {
+    "guide": "CCATCTCGCTGAGATACGAA",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 677,
+    "gc": 50.0,
+    "on_target": 0.941
+  },
+  {
+    "guide": "CTCGCTGAGATACGAAGGGA",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 681,
+    "gc": 55.0,
+    "on_target": 0.941
+  },
+  {
+    "guide": "AGATGCTACTGGCCGCTGAA",
+    "pam": "GGG",
+    "strand": "-",
+    "mrna_pos": 275,
+    "gc": 55.0,
+    "on_target": 0.941
+  },
+  {
+    "guide": "GGCTCAAAGTCAGATGCTAC",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 286,
+    "gc": 50.0,
+    "on_target": 0.918
+  },
+  {
+    "guide": "AGGATCAACACTGCTTCTGA",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 715,
+    "gc": 45.0,
+    "on_target": 0.906
+  },
+  {
+    "guide": "CCCTTCGTATCTCAGCGAGA",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 677,
+    "gc": 55.0,
+    "on_target": 0.906
+  },
+  {
+    "guide": "GCGGCTTCACTCAGACCCTG",
+    "pam": "AGG",
+    "strand": "-",
+    "mrna_pos": 307,
+    "gc": 65.0,
+    "on_target": 0.906
+  },
+  {
+    "guide": "AGCATCTGACTTTGAGCCTC",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 291,
+    "gc": 50.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "CATCACGCCAGTCAACAGTC",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 537,
+    "gc": 55.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "AGAAACACTCCTGGTACCAT",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 560,
+    "gc": 45.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "TCCATCTCGCTGAGATACGA",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 676,
+    "gc": 50.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "TCTCGCTGAGATACGAAGGG",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 680,
+    "gc": 55.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "ATCTCAGCGAGATGGACCTC",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 669,
+    "gc": 55.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "ACTGGCGTGATGTAGTTGCT",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 526,
+    "gc": 50.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "CTGGCGTGATGTAGTTGCTT",
+    "pam": "GGG",
+    "strand": "-",
+    "mrna_pos": 525,
+    "gc": 50.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "TTCCTTGGAGTTCCAACGAG",
+    "pam": "CGG",
+    "strand": "-",
+    "mrna_pos": 326,
+    "gc": 50.0,
+    "on_target": 0.894
+  },
+  {
+    "guide": "GTCTGAGTGAAGCCGCTCGT",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 314,
+    "gc": 60.0,
+    "on_target": 0.882
+  },
+  {
+    "guide": "GCCCAAACCAAAAATGGCCA",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 496,
+    "gc": 50.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "ACAGTCTGGAGAAACACTCC",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 551,
+    "gc": 50.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "CTGAGTATCTGCTGAGCAGC",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 602,
+    "gc": 55.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "CGGGATCAATGGCAGCTTCT",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 621,
+    "gc": 55.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "CGTGAGAGTGAGAGCAGTCC",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 646,
+    "gc": 60.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "AAGGGAGGGTGTACCATTAC",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 695,
+    "gc": 50.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "CAGATACTCAGCGGCATTGC",
+    "pam": "GGG",
+    "strand": "-",
+    "mrna_pos": 590,
+    "gc": 55.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "TTTCACTGGGTCCAGCGAGA",
+    "pam": "AGG",
+    "strand": "-",
+    "mrna_pos": 351,
+    "gc": 55.0,
+    "on_target": 0.859
+  },
+  {
+    "guide": "TGTTTCTCCAGACTGTTGAC",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 544,
+    "gc": 45.0,
+    "on_target": 0.847
+  },
+  {
+    "guide": "GTGAGAGCAGTCCTGGCCAG",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 653,
+    "gc": 65.0,
+    "on_target": 0.835
+  },
+  {
+    "guide": "CAGATGCTACTGGCCGCTGA",
+    "pam": "AGG",
+    "strand": "-",
+    "mrna_pos": 276,
+    "gc": 60.0,
+    "on_target": 0.835
+  },
+  {
+    "guide": "GGACACAGGCCCATGGTACC",
+    "pam": "AGG",
+    "strand": "-",
+    "mrna_pos": 569,
+    "gc": 65.0,
+    "on_target": 0.824
+  },
+  {
+    "guide": "AGTTGCTTGGGACCCAGCCT",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 513,
+    "gc": 60.0,
+    "on_target": 0.824
+  },
+  {
+    "guide": "GGTGAAAAGCTCCGGGTCTT",
+    "pam": "AGG",
+    "strand": "+",
+    "mrna_pos": 445,
+    "gc": 55.0,
+    "on_target": 0.812
+  },
+  {
+    "guide": "AAGCAGTGTTGATCCTGTAA",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 708,
+    "gc": 40.0,
+    "on_target": 0.812
+  },
+  {
+    "guide": "CATTGCGGGACACAGGCCCA",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 576,
+    "gc": 65.0,
+    "on_target": 0.776
+  },
+  {
+    "guide": "GCTATAATCACAATGGGGAA",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 467,
+    "gc": 40.0,
+    "on_target": 0.765
+  },
+  {
+    "guide": "ACAGTGCAACGAAAAGGTTG",
+    "pam": "GGG",
+    "strand": "-",
+    "mrna_pos": 378,
+    "gc": 45.0,
+    "on_target": 0.765
+  },
+  {
+    "guide": "AACCAAAAATGGCCAAGGCT",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 501,
+    "gc": 45.0,
+    "on_target": 0.753
+  },
+  {
+    "guide": "AGCGAGATGGACCTCTGGCC",
+    "pam": "AGG",
+    "strand": "-",
+    "mrna_pos": 664,
+    "gc": 65.0,
+    "on_target": 0.729
+  },
+  {
+    "guide": "TGTGATTATAGCCTAAGACC",
+    "pam": "CGG",
+    "strand": "-",
+    "mrna_pos": 456,
+    "gc": 40.0,
+    "on_target": 0.718
+  },
+  {
+    "guide": "TCCAAGGAAAACCTTCTCGC",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 340,
+    "gc": 50.0,
+    "on_target": 0.706
+  },
+  {
+    "guide": "AAACCAAAAATGGCCAAGGC",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 500,
+    "gc": 45.0,
+    "on_target": 0.682
+  },
+  {
+    "guide": "TCAGCGGCATTGCGGGACAC",
+    "pam": "AGG",
+    "strand": "-",
+    "mrna_pos": 583,
+    "gc": 65.0,
+    "on_target": 0.682
+  },
+  {
+    "guide": "ATACAGTGCAACGAAAAGGT",
+    "pam": "TGG",
+    "strand": "-",
+    "mrna_pos": 380,
+    "gc": 40.0,
+    "on_target": 0.659
+  },
+  {
+    "guide": "AACTAAAGGTGAAAAGCTCC",
+    "pam": "GGG",
+    "strand": "+",
+    "mrna_pos": 438,
+    "gc": 40.0,
+    "on_target": 0.624
+  },
+  {
+    "guide": "TGTGAAGCCCAAACCAAAAA",
+    "pam": "TGG",
+    "strand": "+",
+    "mrna_pos": 490,
+    "gc": 40.0,
+    "on_target": 0.553
+  },
+  {
+    "guide": "TACAGTGCAACGAAAAGGTT",
+    "pam": "GGG",
+    "strand": "-",
+    "mrna_pos": 379,
+    "gc": 40.0,
+    "on_target": 0.541
+  }
+]

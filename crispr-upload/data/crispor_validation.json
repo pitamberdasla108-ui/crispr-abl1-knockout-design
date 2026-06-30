@@ -1,0 +1,56 @@
+[
+  {
+    "guide": "GTCTGAGTGAAGCCGCTCGT",
+    "on_target": 0.882,
+    "mit_spec": 98,
+    "cfd_spec": 97,
+    "offtargets": 27,
+    "note": "4:exon:TP53INP1",
+    "verdict": "SAFE"
+  },
+  {
+    "guide": "AGCCGCTCGTTGGAACTCCA",
+    "on_target": 0.941,
+    "mit_spec": 90,
+    "cfd_spec": 95,
+    "offtargets": 41,
+    "note": "4:intron:PANK2",
+    "verdict": "SAFE"
+  },
+  {
+    "guide": "CATCACGCCAGTCAACAGTC",
+    "on_target": 0.894,
+    "mit_spec": 90,
+    "cfd_spec": 96,
+    "offtargets": 55,
+    "note": "intergenic",
+    "verdict": "SAFE"
+  },
+  {
+    "guide": "GCTGCTCAGCAGATACTCAG",
+    "on_target": 1.0,
+    "mit_spec": 65,
+    "cfd_spec": 81,
+    "offtargets": 227,
+    "note": "2:intergenic:MIR5100-RET",
+    "verdict": "MARGINAL"
+  },
+  {
+    "guide": "GCTGAGTATCTGCTGAGCAG",
+    "on_target": 1.0,
+    "mit_spec": 53,
+    "cfd_spec": 78,
+    "offtargets": 244,
+    "note": "intergenic",
+    "verdict": "RISKY"
+  },
+  {
+    "guide": "GAGAAACACTCCTGGTACCA",
+    "on_target": 1.0,
+    "mit_spec": 42,
+    "cfd_spec": 87,
+    "offtargets": 164,
+    "note": "1:exon:ABL2 (paralog!)",
+    "verdict": "RISKY"
+  }
+]
